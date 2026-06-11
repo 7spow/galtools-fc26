@@ -1,4 +1,5 @@
 # GalTools FC26
+<!-- deployed via Vercel -->
 
 > L'assistant FC26 du peuple - Extension Chrome premium connectee FUT.GG
 
